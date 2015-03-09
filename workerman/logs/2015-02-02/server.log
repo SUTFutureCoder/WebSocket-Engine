@@ -1,0 +1,44 @@
+2015-02-02 15:19:37 Server:Workerman is starting ...
+2015-02-02 15:19:37 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-02 15:24:51 Server:Workerman is shutting down
+2015-02-02 15:24:52 Server:Workerman stoped
+2015-02-02 15:24:55 Server:Workerman is starting ...
+2015-02-02 15:24:55 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-02 15:27:02 Server:Workerman is shutting down
+2015-02-02 15:27:02 Server:Workerman stoped
+2015-02-02 15:27:02 Server:Workerman is starting ...
+2015-02-02 15:27:02 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-02 17:00:24 Server:Workerman is starting ...
+2015-02-02 17:00:24 Server:[33;40mWorkerman already started[0m
+2015-02-02 17:01:00 Server:Workerman is shutting down
+2015-02-02 17:01:00 Server:Workerman stoped
+2015-02-02 17:01:37 Server:Workerman is starting ...
+2015-02-02 17:01:37 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-02 17:01:40 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 17:01:41 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 17:01:42 /tmp/group.store.cache.php updated and reload workers
+2015-02-02 20:19:09 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 20:19:11 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 20:19:18 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 20:26:14 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 20:35:09 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 20:35:10 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 20:39:25 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 20:42:27 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 20:46:34 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 20:49:10 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 21:25:16 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 21:25:17 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 21:25:48 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 21:25:49 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 21:31:12 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 22:32:15 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 22:57:24 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 23:02:44 Worker[BusinessWorker]:WORKER EXIT UNEXPECTED  E_WARNING file_get_contents(/var/run/workerman-chat.pid): failed to open stream: No such file or directory in /var/www/html/intelligence_server/websocket/workerman/Core/Lib/Checker.php on line 276
+2015-02-02 23:02:44 Worker[FileMonitor]:terminal closed and reset workers fd
+2015-02-02 23:53:28 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-02 23:56:26 /tmp/gateway.store.cache.php updated and reload workers

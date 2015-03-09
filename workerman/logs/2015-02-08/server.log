@@ -1,0 +1,50 @@
+2015-02-08 00:07:04 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:08:11 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:10:04 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:15:44 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:17:10 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:17:12 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:17:13 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:34:43 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:35:33 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:36:09 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:38:07 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:39:25 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:40:06 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:40:43 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:40:44 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:46:52 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:46:53 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:48:55 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:48:56 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:50:16 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:50:19 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 00:54:40 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 01:17:00 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 01:17:06 Worker[BusinessWorker]:WORKER EXIT UNEXPECTED  E_WARNING file_get_contents(/var/run/workerman-chat.pid): failed to open stream: No such file or directory in /var/www/html/intelligence_server/websocket/workerman/Core/Lib/Checker.php on line 276
+2015-02-08 01:17:06 Worker[FileMonitor]:terminal closed and reset workers fd
+2015-02-08 01:17:07 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 21:42:21 Server:Workerman is starting ...
+2015-02-08 21:42:21 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-08 21:42:28 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 21:42:48 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 21:43:01 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 21:43:06 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 21:43:15 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 21:43:26 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-08 21:43:33 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-08 21:44:01 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-08 21:44:40 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-08 21:44:42 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-08 21:44:58 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-08 21:46:28 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-08 21:46:31 Worker[BusinessWorker]:WORKER EXIT UNEXPECTED  E_ERROR Call to undefined function User\ppython() in /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php on line 102
+2015-02-08 21:46:31 Server:worker[21585:BusinessWorker] exit with status 65280
+2015-02-08 21:46:35 Worker[BusinessWorker]:WORKER EXIT UNEXPECTED  E_ERROR Call to undefined function User\ppython() in /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php on line 102
+2015-02-08 21:46:35 Server:worker[21633:BusinessWorker] exit with status 65280
+2015-02-08 21:46:39 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-08 21:53:08 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-08 21:58:39 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-08 22:07:48 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-08 22:09:02 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers

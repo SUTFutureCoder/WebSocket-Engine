@@ -1,0 +1,21 @@
+2015-02-04 00:00:00 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 16:33:54 Server:Workerman is starting ...
+2015-02-04 16:33:54 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-04 16:34:03 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 16:34:05 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 16:46:33 Worker[BusinessWorker]:WORKER EXIT UNEXPECTED  E_WARNING file_get_contents(/var/run/workerman-chat.pid): failed to open stream: No such file or directory in /var/www/html/intelligence_server/websocket/workerman/Core/Lib/Checker.php on line 276
+2015-02-04 16:46:34 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 16:46:34 Worker[FileMonitor]:terminal closed and reset workers fd
+2015-02-04 17:26:58 Server:Workerman is starting ...
+2015-02-04 17:26:58 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-04 17:41:02 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 17:41:04 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 17:41:05 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 20:53:03 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 20:53:05 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 20:53:09 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 23:17:56 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 23:17:57 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-04 23:18:02 /tmp/gateway.store.cache.php updated and reload workers

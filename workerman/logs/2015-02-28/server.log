@@ -1,0 +1,18 @@
+2015-02-28 20:26:02 Server:Workerman is starting ...
+2015-02-28 20:26:02 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-28 20:41:38 Worker[FileMonitor]:terminal closed and reset workers fd
+2015-02-28 20:41:58 Server:Workerman is shutting down
+2015-02-28 20:41:58 Server:Workerman stoped
+2015-02-28 20:41:58 Server:Workerman is starting ...
+2015-02-28 20:41:58 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-28 20:44:23 Server:Workerman is shutting down
+2015-02-28 20:44:23 Server:Workerman stoped
+2015-02-28 20:44:23 Server:Workerman is starting ...
+2015-02-28 20:44:23 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-28 20:44:33 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-28 20:44:38 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-28 20:44:40 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-28 22:02:50 /tmp/gateway.store.cache.php updated and reload workers

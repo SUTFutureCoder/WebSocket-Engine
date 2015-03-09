@@ -1,0 +1,37 @@
+2015-02-03 15:31:08 Server:Workerman is starting ...
+2015-02-03 15:31:08 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-03 15:55:17 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 15:56:58 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 15:57:41 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 15:57:42 /tmp/group.store.cache.php updated and reload workers
+2015-02-03 15:59:40 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 15:59:41 /tmp/group.store.cache.php updated and reload workers
+2015-02-03 16:05:14 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 16:05:15 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 19:11:35 Worker[BusinessWorker]:WORKER EXIT UNEXPECTED  E_NOTICE Undefined index: key in /var/www/html/intelligence_server/websocket/applications/Chat/Event.php on line 225
+2015-02-03 19:11:35 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 19:11:35 Worker[FileMonitor]:terminal closed and reset workers fd
+2015-02-03 19:11:35 Server:worker[29535:BusinessWorker] exit with status 12
+2015-02-03 20:38:27 Server:Workerman is starting ...
+2015-02-03 20:38:27 Server:[33;40mWorkerman already started[0m
+2015-02-03 20:38:36 Server:Workerman is shutting down
+2015-02-03 20:38:37 Server:Workerman stoped
+2015-02-03 20:38:37 Server:Workerman is starting ...
+2015-02-03 20:38:37 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-03 20:50:36 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 20:50:39 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 20:50:40 /tmp/group.store.cache.php updated and reload workers
+2015-02-03 21:13:18 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 21:13:19 /tmp/group.store.cache.php updated and reload workers
+2015-02-03 22:20:46 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 22:20:47 /tmp/group.store.cache.php updated and reload workers
+2015-02-03 22:21:03 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 22:21:05 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 22:21:07 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 22:21:28 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 22:21:33 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 22:32:13 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 22:32:14 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-03 23:59:31 /tmp/gateway.store.cache.php updated and reload workers

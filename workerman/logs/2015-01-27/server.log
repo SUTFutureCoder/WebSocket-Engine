@@ -1,0 +1,30 @@
+2015-01-27 15:57:21 Server:Workerman is starting ...
+2015-01-27 15:57:22 Server:[1A
+[KWorkerman start success ...[0m
+2015-01-27 15:57:29 /tmp/gateway.store.cache.php updated and reload workers
+2015-01-27 15:58:31 /tmp/gateway.store.cache.php updated and reload workers
+2015-01-27 15:58:33 /tmp/gateway.store.cache.php updated and reload workers
+2015-01-27 15:58:42 /tmp/gateway.store.cache.php updated and reload workers
+2015-01-27 15:58:53 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-01-27 16:01:01 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-01-27 16:02:05 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-01-27 16:02:10 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-01-27 16:02:31 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 16:02:34 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 16:03:08 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 16:03:18 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 17:01:35 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 17:03:50 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 17:03:53 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 17:04:00 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 17:04:05 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 17:04:25 /tmp/gateway.store.cache.php updated and reload workers
+2015-01-27 17:04:26 /tmp/gateway.store.cache.php updated and reload workers
+2015-01-27 17:04:38 /tmp/gateway.store.cache.php updated and reload workers
+2015-01-27 17:04:44 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-01-27 17:12:48 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 17:13:35 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 17:13:45 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-01-27 17:14:07 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-01-27 20:45:33 /tmp/gateway.store.cache.php updated and reload workers
+2015-01-27 20:45:35 Worker[FileMonitor]:terminal closed and reset workers fd

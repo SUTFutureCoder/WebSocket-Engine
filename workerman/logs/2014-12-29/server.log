@@ -1,0 +1,16 @@
+2014-12-29 20:49:40 Server:Workerman is starting ...
+2014-12-29 20:49:40 Server:[1A
+[KWorkerman start success ...[0m
+2014-12-29 20:49:54 /tmp/gateway.store.cache.php updated and reload workers
+2014-12-29 20:49:58 /tmp/gateway.store.cache.php updated and reload workers
+2014-12-29 20:50:17 /tmp/VirtualShell.store.cache.php updated and reload workers
+2014-12-29 20:50:24 /tmp/VirtualShell.store.cache.php updated and reload workers
+2014-12-29 20:54:30 /tmp/gateway.store.cache.php updated and reload workers
+2014-12-29 20:54:35 /tmp/gateway.store.cache.php updated and reload workers
+2014-12-29 20:54:56 /tmp/VirtualShell.store.cache.php updated and reload workers
+2014-12-29 21:21:09 /tmp/gateway.store.cache.php updated and reload workers
+2014-12-29 21:21:20 Worker[FileMonitor]:terminal closed and reset workers fd
+2014-12-29 21:22:39 /var/www/html/gd_virtual_shell/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2014-12-29 21:22:50 /var/www/html/gd_virtual_shell/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2014-12-29 21:23:06 /var/www/html/gd_virtual_shell/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2014-12-29 21:23:10 /var/www/html/gd_virtual_shell/websocket/applications/Chat/User/VirtualShell.php updated and reload workers

@@ -1,0 +1,164 @@
+2015-02-10 00:02:19 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:02:27 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:02:28 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:03:20 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:03:24 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:03:32 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 00:03:42 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 00:03:50 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 00:04:32 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 00:04:37 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 00:04:43 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 00:04:51 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 00:05:23 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:05:39 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:05:57 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:05:58 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:06:14 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:06:21 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:06:38 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:06:41 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:06:44 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:07:00 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:07:14 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:08:50 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 00:08:51 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 00:08:58 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 00:09:06 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 00:10:42 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:10:50 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:15:38 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:15:55 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:15:58 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:16:00 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:16:12 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 00:18:47 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 00:18:50 Worker[FileMonitor]:terminal closed and reset workers fd
+2015-02-10 10:18:00 Server:Workerman is starting ...
+2015-02-10 10:18:00 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-10 10:18:27 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 10:18:29 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 10:18:32 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 10:20:49 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 10:20:57 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 20:37:07 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 20:37:12 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 20:37:19 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 20:44:20 Server:Workerman is shutting down
+2015-02-10 20:44:24 Server:Kill workers 5591 force!
+2015-02-10 20:44:24 Server:Kill workers[BusinessWorker] force
+2015-02-10 20:44:24 Server:Kill workers 5593 force!
+2015-02-10 20:44:24 Server:Kill workers[BusinessWorker] force
+2015-02-10 20:44:24 Server:Kill workers 5597 force!
+2015-02-10 20:44:24 Server:Kill workers[BusinessWorker] force
+2015-02-10 20:44:24 Server:Kill workers 18310 force!
+2015-02-10 20:44:24 Server:Kill workers[BusinessWorker] force
+2015-02-10 20:44:24 Server:worker[5593:BusinessWorker] exit with status 9
+2015-02-10 20:44:24 Server:worker[5591:BusinessWorker] exit with status 9
+2015-02-10 20:44:24 Server:worker[5597:BusinessWorker] exit with status 9
+2015-02-10 20:44:24 Server:worker[18310:BusinessWorker] exit with status 9
+2015-02-10 20:44:24 Server:Workerman stoped
+2015-02-10 20:44:24 Server:Workerman is starting ...
+2015-02-10 20:44:24 can not create socket tcp://127.0.0.1:7373 info:0 Address already in use	Server start fail
+2015-02-10 20:49:52 Server:Workerman is starting ...
+2015-02-10 20:49:53 can not create socket tcp://127.0.0.1:7373 info:0 Address already in use	Server start fail
+2015-02-10 20:49:55 Server:Workerman is starting ...
+2015-02-10 20:49:55 can not create socket tcp://127.0.0.1:7373 info:0 Address already in use	Server start fail
+2015-02-10 21:00:41 Server:Workerman is starting ...
+2015-02-10 21:00:41 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-10 21:01:15 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 21:01:16 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 21:01:20 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 21:02:10 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 21:02:17 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 21:45:08 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 21:45:14 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 21:45:22 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 21:45:24 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 21:47:38 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 21:47:48 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 21:47:54 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 21:48:02 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 21:48:09 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 21:48:48 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 22:36:01 Worker[BusinessWorker]:WORKER EXIT UNEXPECTED  E_WARNING pclose() expects parameter 1 to be resource, null given in /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php on line 126
+2015-02-10 22:36:01 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 22:36:01 Worker[FileMonitor]:terminal closed and reset workers fd
+2015-02-10 23:27:07 Server:Workerman is starting ...
+2015-02-10 23:27:07 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-10 23:27:25 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:27:28 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:28:14 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:28:22 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 23:28:25 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 23:29:22 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:29:26 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:30:01 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:30:45 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:30:49 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:31:28 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:31:44 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:31:50 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 23:34:53 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 23:34:58 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 23:35:38 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:35:45 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:37:39 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:37:43 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:37:53 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:38:46 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:38:49 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:38:52 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:38:56 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:39:00 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:39:05 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:39:08 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:40:19 /var/www/html/intelligence_server/websocket/applications/Chat/Event.php updated and reload workers
+2015-02-10 23:40:22 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 23:41:25 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 23:41:33 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 23:41:38 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 23:41:44 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:41:48 Worker[BusinessWorker]:WORKER EXIT UNEXPECTED  E_WARNING pclose() expects parameter 1 to be resource, null given in /var/www/html/intelligence_server/websocket/applications/Chat/Event.php on line 294
+2015-02-10 23:41:48 Worker[BusinessWorker]:WORKER EXIT UNEXPECTED  E_WARNING pclose() expects parameter 1 to be resource, null given in /var/www/html/intelligence_server/websocket/applications/Chat/Event.php on line 294
+2015-02-10 23:41:49 Worker[FileMonitor]:terminal closed and reset workers fd
+2015-02-10 23:47:18 Server:Workerman is starting ...
+2015-02-10 23:47:18 Server:[1A
+[KWorkerman start success ...[0m
+2015-02-10 23:47:22 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:47:25 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:47:33 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 23:47:47 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:47:50 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:47:56 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 23:48:03 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:48:08 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 23:48:19 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:48:24 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:48:30 /tmp/VirtualShell.store.cache.php updated and reload workers
+2015-02-10 23:48:58 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:49:01 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:49:02 /tmp/group.store.cache.php updated and reload workers
+2015-02-10 23:51:05 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:51:08 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:51:12 /tmp/gateway.store.cache.php updated and reload workers
+2015-02-10 23:51:46 /var/www/html/intelligence_server/websocket/applications/Chat/User/VirtualShell.php updated and reload workers
+2015-02-10 23:56:08 Server:Workerman is shutting down
+2015-02-10 23:56:12 Server:Kill workers 5627 force!
+2015-02-10 23:56:12 Server:Kill workers[BusinessWorker] force
+2015-02-10 23:56:12 Server:Kill workers 6084 force!
+2015-02-10 23:56:12 Server:Kill workers[BusinessWorker] force
+2015-02-10 23:56:12 Server:Kill workers 6087 force!
+2015-02-10 23:56:12 Server:Kill workers[BusinessWorker] force
+2015-02-10 23:56:12 Server:Kill workers 6095 force!
+2015-02-10 23:56:12 Server:Kill workers[BusinessWorker] force
+2015-02-10 23:56:12 Server:worker[5627:BusinessWorker] exit with status 9
+2015-02-10 23:56:12 Server:worker[6084:BusinessWorker] exit with status 9
+2015-02-10 23:56:12 Server:worker[6087:BusinessWorker] exit with status 9
+2015-02-10 23:56:12 Server:worker[6095:BusinessWorker] exit with status 9
+2015-02-10 23:56:12 Server:Workerman stoped
+2015-02-10 23:56:15 Server:Workerman is starting ...
+2015-02-10 23:56:15 can not create socket tcp://127.0.0.1:7373 info:0 Address already in use	Server start fail
