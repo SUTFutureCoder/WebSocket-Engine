@@ -45,6 +45,6 @@
 
 7.由[event](https://github.com/SUTFutureCoder/WebSocket-Engine/blob/master/applications/Chat/Event.php)文件接收，通过cURL模拟POST到对应API接口，同时接收接口返回的数据。
 
-iframe内外式：[例1](https://github.com/SUTFutureCoder/intelligence_server/tree/master/WSPDM2/application/views)
+iframe内外式：[例一](https://github.com/SUTFutureCoder/intelligence_server/tree/master/WSPDM2/application/views)
 
 普通发送式：[例二](https://github.com/SUTFutureCoder/intelligence_server/tree/master/VirtualShell)
