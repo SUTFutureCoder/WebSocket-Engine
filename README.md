@@ -44,7 +44,3 @@
 iframe内外式：[例1](https://github.com/SUTFutureCoder/intelligence_server/tree/master/WSPDM2/application/views)
 
 普通发送式：[例二](https://github.com/SUTFutureCoder/intelligence_server/tree/master/VirtualShell)
-
-
-
-
