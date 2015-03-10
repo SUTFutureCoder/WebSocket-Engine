@@ -9,6 +9,10 @@
 
 ---
 
+* 使用方法：`sudo  workerman/bin/workermand start/stop/restart/reload/kill/status`
+
+---
+
 #具体流程
 1.页面加载前生成user_key并添加到js代码段中  
 
